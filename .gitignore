@@ -1,0 +1,5 @@
+*.user
+*.exe
+*.nupkg
+
+ExtLib/packages/
